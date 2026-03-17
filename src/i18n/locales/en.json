@@ -1,0 +1,12 @@
+{
+  "hello": "Hello Electron",
+  "subtitle": "Powered by {{react}} + {{vite}} + {{tailwind}}",
+  "editHint": "Edit {{file}} and save to test HMR",
+  "techStack": {
+    "electron": "Electron",
+    "react": "React",
+    "vite": "Vite",
+    "tailwindcss": "TailwindCSS",
+    "typescript": "TypeScript"
+  }
+}

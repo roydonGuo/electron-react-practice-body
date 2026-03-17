@@ -1,0 +1,12 @@
+{
+  "hello": "こんにちは Electron",
+  "subtitle": "{{react}} + {{vite}} + {{tailwind}} で構築",
+  "editHint": "{{file}} を編集して保存し、HMR をテスト",
+  "techStack": {
+    "electron": "Electron",
+    "react": "React",
+    "vite": "Vite",
+    "tailwindcss": "TailwindCSS",
+    "typescript": "TypeScript"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "hello": "你好 Electron",
+  "subtitle": "由 {{react}} + {{vite}} + {{tailwind}} 驱动",
+  "editHint": "编辑 {{file}} 并保存以测试热更新",
+  "techStack": {
+    "electron": "Electron",
+    "react": "React",
+    "vite": "Vite",
+    "tailwindcss": "TailwindCSS",
+    "typescript": "TypeScript"
+  }
+}
