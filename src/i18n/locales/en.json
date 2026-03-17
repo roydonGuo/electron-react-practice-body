@@ -8,5 +8,12 @@
     "vite": "Vite",
     "tailwindcss": "TailwindCSS",
     "typescript": "TypeScript"
+  },
+  "navbar": {
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
   }
 }
